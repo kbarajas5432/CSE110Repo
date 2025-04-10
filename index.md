@@ -25,7 +25,7 @@ If you **click** [here](https://www.toontownrewritten.com/), it will take you to
 ![New Club Penguin](images/clubpenguin.jpg)
 ![Wizard101](images/w101.jpg)
 ![Papas game](images/papalouie.jpg)
-![Animal Crossing](images/AC.jpgjpeg)
+![Animal Crossing](images/AC.jpg)
 ![Dead By Daylight](images/DBD.jpg)
 
 ## My Bucket List to Travel:
