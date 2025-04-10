@@ -55,13 +55,12 @@ If you **click** [here](https://www.toontownrewritten.com/), it will take you to
 
 ### Favorite Code Snippet
 
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>My Page</title>
-  </head>
-  <body>
-    <h1>Hello, world!</h1>
-  </body>
-</html>
+> - ***Hello World!***
+> - "This is practice"
+> ```
+> {
+>    "firstName": "Karim",
+>    "Major": "CS",
+>    "favoriteFood": "Pizza"
+> }
+> ```
